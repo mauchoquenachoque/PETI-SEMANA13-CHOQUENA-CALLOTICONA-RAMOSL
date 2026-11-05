@@ -29,3 +29,4 @@ En esta carpeta reside el desarrollo completo de la **Sección 7.1** del PETI y 
    * [`graficos/PF_balance.png`](graficos/PF_balance.png): Distribución Capex/TCO y contraste con línea base.
    * [`graficos/PF_tco.png`](graficos/PF_tco.png): Inversión inicial vs Opex a 5 años por proyecto.
    * [`graficos/PF_dependencias.png`](graficos/PF_dependencias.png): Grafo de dependencias técnicas y capas arquitectónicas.
+

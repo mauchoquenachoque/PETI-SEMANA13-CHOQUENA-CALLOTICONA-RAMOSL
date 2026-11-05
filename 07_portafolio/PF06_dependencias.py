@@ -145,3 +145,4 @@ def construir_mapa_dependencias():
 
 if __name__ == "__main__":
     construir_mapa_dependencias()
+

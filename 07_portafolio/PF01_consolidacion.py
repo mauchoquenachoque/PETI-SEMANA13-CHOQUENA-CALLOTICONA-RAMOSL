@@ -221,3 +221,4 @@ def consolidar_candidatos():
 
 if __name__ == "__main__":
     consolidar_candidatos()
+

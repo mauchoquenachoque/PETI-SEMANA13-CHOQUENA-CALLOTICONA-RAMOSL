@@ -179,3 +179,4 @@ def generar_casos_negocio():
 
 if __name__ == "__main__":
     generar_casos_negocio()
+
